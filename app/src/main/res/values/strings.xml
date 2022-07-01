@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Favorite Food 10119116</string>
+    <string name="title_map">Maps</string>
+    <string name="title_profile">My Profile</string>
+    <string name="title_about">About</string>
+
+    <string name="google_maps_key">AIzaSyBPmKnOXPCN_4b-ypbnIrepyHLmerA2CI4</string>
+
+    <string name="nama_saya">Fakhri Adi Saputra</string>
+    <string name="nim_saya">10119116</string>
+    <string name="kelas_saya">IF-3</string>
+    <string name="email_saya">fakhrias.10119116@mahasiswa.unikom.ac.id</string>
+    <string name="about">Aplikasi ini merekomendasikan tempat makan yang merupakan tempat favorit saya untuk makan.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
